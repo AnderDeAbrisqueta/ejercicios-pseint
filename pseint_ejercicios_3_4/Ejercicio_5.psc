@@ -12,6 +12,6 @@ Algoritmo Ejercicio5
 	
 	area<-base*altura;
 	
-	Escribir "El área del rectángulo es:", area, "cm2";
+	Escribir "El área del rectángulo es:", area, "cm²";
 	
 FinAlgoritmo
